@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello World!
 
 - 🔭 I’m currently working on Computer Technician. 
-- 🌱 I'm currently studying ADS
+- 🌱 I'm currently studying ASD
 - 📫 How to reach me: victor.botto22@gmail.com
 ##
 <div> 
